@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb7c234f.css",
+    "main.js": "/static/js/main.418d711d.js",
+    "static/js/453.e77eae28.chunk.js": "/static/js/453.e77eae28.chunk.js",
+    "static/media/remixicon.svg?t=1718271040674": "/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/remixicon.eot?t=1718271040674": "/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/remixicon.woff?t=1718271040674": "/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/login-dark.png": "/static/media/login-dark.a2ccea4196332e112480.png",
+    "static/media/register-dark.png": "/static/media/register-dark.3d9cf31b67f4b5d84944.png",
+    "static/media/remixicon.woff2?t=1718271040674": "/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "static/media/Yekan.ttf": "/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
+    "static/media/1.png": "/static/media/1.947172e46e2d8e0d049a.png",
+    "static/media/9.png": "/static/media/9.2817df8c44e1e0196f75.png",
+    "static/media/5.png": "/static/media/5.8ee42dcd7a9969791d96.png",
+    "static/media/favicon.ico": "/static/media/favicon.ad221a1a0455a4db3210.ico",
+    "static/media/favicon.icon": "/static/media/favicon.ad221a1a0455a4db3210.icon",
+    "index.html": "/index.html",
+    "main.cb7c234f.css.map": "/static/css/main.cb7c234f.css.map",
+    "main.418d711d.js.map": "/static/js/main.418d711d.js.map",
+    "453.e77eae28.chunk.js.map": "/static/js/453.e77eae28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7c234f.css",
+    "static/js/main.418d711d.js"
+  ]
+}
